@@ -10,6 +10,7 @@ struct mobileMoney {
     char number[20];
     char network[20];
     char amount[20];
+// this comment should raise merge conflicts
 };
 
 // Structure for the mobile money transaction
